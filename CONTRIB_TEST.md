@@ -93,4 +93,6 @@ Open a Pull Request to merge the branch `<your-name>` from your forked repositor
 
 <strong>Please note:</strong> All text between angle brackets (`< >`) should be replaced by actual values. Please make sure that the values replacing `<your-name>`, `<your-solution-id>`, `<your-solution-version>`, and `<test-number>` remain consistent. None should contain whitespaces and `<your-solution-version>` should follow the `X.Y.Z` format.
 
-Your Pull Request will be reviewed and your solution added to the PACT Online Catalog as soon as possible.
+Your Pull Request will be reviewed and your conformance test result added to the PACT Online Catalog as soon as possible.
+
+> **_NOTE:_** Conformance test results are shown in the `Conformance` tab of a specific solution's page. If you have not yet added the tested solution to the catalog, then the data about the test results will not be visible. It will, nevertheless, be included in the catalog, and will become visible as soon as the tested solution is also added. 
