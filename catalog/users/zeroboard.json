@@ -1,7 +1,7 @@
 {
-  "id": "zeroboard"                                                         
-  "kind": "solutionprovider"                                
-  "name": "Zeroboard Inc."                    
+  "id": "zeroboard",                                                         
+  "kind": "solutionprovider",                                
+  "name": "Zeroboard Inc.",                    
   "email": "riku.isayama@zeroboard.jp",
   "website": "https://zeroboard.jp/"
 }
