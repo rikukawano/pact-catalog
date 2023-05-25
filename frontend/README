@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This directory will be populated during the build step with the contents found [here](https://github.com/sine-fdn/pact-catalog-frontend/tree/main/frontend)
+=======
+This directory will be populated during the build step.
+>>>>>>> 17ba26f88090995814bd5f25b231de1177ab0af8
